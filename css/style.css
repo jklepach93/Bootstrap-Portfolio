@@ -1,0 +1,55 @@
+.navbar-light{
+    background-color: #59AAA5;
+}
+.jumbotron{
+    margin-right: 40px;
+}
+
+}
+img{
+float:left;
+}
+    h1{
+        color:#59b5c0;
+}
+.jumbotron {
+    widows: 100;
+    margin:40px;
+    background-color:white;
+}
+body{
+    background:url("../Assets/images/concrete_seamless.png");
+    font-size:18px;
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #666666;
+    color: white;
+    text-align: center;
+    outline-color: #59AAA5;
+    outline-style:solid;
+    outline-width: 10px;
+}
+.navbar-brand{
+    background-color:#59AAA5;
+    
+}
+.navbar-nav{
+    float:right;
+}
+.form-area{
+    align-self: center;
+    width:100%;
+    margin: 50px;
+    margin-left: 70%;
+}
+.btn-primary{
+    background-color:#59AAA5;
+    border-color:#59AAA5;
+}
+img{
+    margin-bottom: 40px;
+}
